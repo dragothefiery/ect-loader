@@ -6,7 +6,6 @@ module.exports = (source) ->
 	this.cacheable and this.cacheable()
 
 	data = loaderUtils.parseQuery(this.query)
-	data.promoEnv = process.env.PROMO_ENV
 
 	options =
 		open: '<%'
