@@ -14,7 +14,7 @@ without having to load `ECT` and `CoffeeScript` browser versions.
 module.exports = {
   module: {
     loaders: [
-      { test: /\.ect$/, loader: "ect?paramsPassedToTemplateHere" }
+      { test: /\.ect$/, loader: "render-ect?paramsPassedToTemplateHere" }
     ]
   }
 };

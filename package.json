@@ -1,5 +1,5 @@
 {
-  "name": "ect-loader",
+  "name": "render-ect-loader",
   "version": "1.0.0",
   "description": "ect templates compiler for webpack",
   "main": "index.coffee",
@@ -8,13 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dragothefiery/ect-loader.git"
+    "url": "git+https://github.com/dragothefiery/render-ect-loader.git"
   },
   "keywords": [
     "ect",
     "loader",
     "webpack",
     "renderer",
+    "render",
     "template",
     "dragothefiery"
   ],
@@ -24,9 +25,9 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/dragothefiery/ect-loader/issues"
+    "url": "https://github.com/dragothefiery/render-ect-loader/issues"
   },
-  "homepage": "https://github.com/dragithefiery/ect-loader#readme",
+  "homepage": "https://github.com/dragothefiery/render-ect-loader#readme",
   "dependencies": {
 
   },
