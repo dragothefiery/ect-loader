@@ -1,0 +1,37 @@
+{
+  "name": "ect-loader",
+  "version": "1.0.0",
+  "description": "ect templates compiler for webpack",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragothefiery/ect-loader.git"
+  },
+  "keywords": [
+    "ect",
+    "loader",
+    "webpack",
+    "renderer",
+    "template",
+    "dragothefiery"
+  ],
+  "author": {
+    "name": "Karpov Stas",
+    "email": "gilbert_90@mail.ru"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dragothefiery/ect-loader/issues"
+  },
+  "homepage": "https://github.com/dragithefiery/ect-loader#readme",
+  "dependencies": {
+
+  },
+  "peerDependencies": {
+    "ect": "^0.5.9"
+  },
+  "readmeFilename": "README.md"
+}
